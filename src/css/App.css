@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.outline {
+  border: 1px solid #ff0;
+}
+
+.equation, .display {
+  background: #000;
+  width: 46.7vh;
+  height: 5vh;
+  font-size: 30px;
+  color: #ff0;
+  padding: 10px;
+  text-align: right;
+}
