@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dr-Apex/Calculator/static/css/main.9ae8eae4.chunk.css",
+    "main.js": "/Dr-Apex/Calculator/static/js/main.7e56e0b5.chunk.js",
+    "main.js.map": "/Dr-Apex/Calculator/static/js/main.7e56e0b5.chunk.js.map",
+    "runtime-main.js": "/Dr-Apex/Calculator/static/js/runtime-main.35046257.js",
+    "runtime-main.js.map": "/Dr-Apex/Calculator/static/js/runtime-main.35046257.js.map",
+    "static/js/2.fef14f71.chunk.js": "/Dr-Apex/Calculator/static/js/2.fef14f71.chunk.js",
+    "static/js/2.fef14f71.chunk.js.map": "/Dr-Apex/Calculator/static/js/2.fef14f71.chunk.js.map",
+    "index.html": "/Dr-Apex/Calculator/index.html",
+    "precache-manifest.cab45e972e61872e587dba595c4f7403.js": "/Dr-Apex/Calculator/precache-manifest.cab45e972e61872e587dba595c4f7403.js",
+    "service-worker.js": "/Dr-Apex/Calculator/service-worker.js",
+    "static/css/main.9ae8eae4.chunk.css.map": "/Dr-Apex/Calculator/static/css/main.9ae8eae4.chunk.css.map",
+    "static/js/2.fef14f71.chunk.js.LICENSE.txt": "/Dr-Apex/Calculator/static/js/2.fef14f71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35046257.js",
+    "static/js/2.fef14f71.chunk.js",
+    "static/css/main.9ae8eae4.chunk.css",
+    "static/js/main.7e56e0b5.chunk.js"
+  ]
+}
